@@ -34,7 +34,7 @@
         "East US 2"
       ],
       "metadata": {
-        "description": "Restricts cjoices to where premium storage is located in the US."
+        "description": "Restricts choices to where premium storage is located in the US."
       }
     },
     "windowsOSVersion": {
@@ -176,7 +176,6 @@
             },
             "caching": "ReadWrite",
             "createOption": "FromImage"
-          }
         },
         "dataDisks": [
           {
